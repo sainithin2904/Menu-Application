@@ -13,7 +13,7 @@ const menuItems = {
         sports: "Sports",
         live: "En direct",
     },
-    de: {
+    ge: {
         home: "Startseite",
         movies: "Filme",
         tvshows: "TV-Sendungen",
@@ -27,14 +27,14 @@ const menuItems = {
         sports: "Спорт",
         live: "Живое",
     },
-    es: {
+    sp: {
         home: "Inicio",
         movies: "Películas",
         tvshows: "Programas de TV",
         sports: "Deportes",
         live: "En vivo",
     },
-    zh: {
+    ch: {
         home: "首页",
         movies: "电影",
         tvshows: "电视剧",
