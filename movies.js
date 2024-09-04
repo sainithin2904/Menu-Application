@@ -44,11 +44,11 @@ const menuItems = {
 };
 
 const images = {
-    home: "images/home.jpg",
-    movies: "images/movies.jpg",
-    tvshows: "images/tvshows.jpeg",
-    sports: "images/sports.jpg",
-    live: "images/live.jpeg",
+    home: "https://th.bing.com/th/id/OIP._p63mRQY7D2NzQ1xeF8unAAAAA?rs=1&pid=ImgDetMain",
+    movies: "https://wallpapercave.com/wp/wp1945939.jpg",
+    tvshows: "https://www.popoptiq.com/wp-content/uploads/2019/05/tv-shows-may272019-min-768x512.jpg",
+    sports: "https://images.saymedia-content.com/.image/t_share/MTk5OTQ0OTE5Mjc0NDk3MTI3/types-of-cricket-matches.jpg",
+    live: "https://img.freepik.com/free-vector/live-neon-sign-light-banner-vector-illustration_77399-1334.jpg?size=338&ext=jpg",
 };
 
 document.addEventListener('DOMContentLoaded', () => {
