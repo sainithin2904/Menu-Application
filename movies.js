@@ -27,7 +27,7 @@ const menuItems = {
         sports: "Спорт",
         live: "Живое",
     },
-    sp: {
+    spa: {
         home: "Inicio",
         movies: "Películas",
         tvshows: "Programas de TV",
